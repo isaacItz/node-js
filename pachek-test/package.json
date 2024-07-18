@@ -1,0 +1,15 @@
+{
+  "name": "pachek-test",
+  "version": "1.0.0",
+  "description": "la libreria del pachek loko",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "base-service-fran-dev": "^1.3.12"
+  }
+}
